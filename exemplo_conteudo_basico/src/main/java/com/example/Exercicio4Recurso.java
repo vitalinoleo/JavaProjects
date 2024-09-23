@@ -13,6 +13,7 @@ public class Exercicio4Recurso {
             return 1;
         }else{
             return n*calculoFatorial(n-1);
+            //5! = 5*4*3*2*1
         }
     }
     //calcular o fatorial 
